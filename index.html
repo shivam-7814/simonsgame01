@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="shortcut icon" href="logoimg.png" type="image/x-icon">
+  <title>Simon Says Game</title>
+</head>
+<body>
+
+  <div class="stage">
+    <div class="console">
+
+      <div class="brand">
+        <h1>SIMON<span class="brand-dot">•</span></h1>
+        <span class="brand-sub">electronic memory game</span>
+      </div>
+
+      <div class="screen">
+        <span class="screen-label">status</span>
+        <h2>Press start to play</h2>
+      </div>
+
+      <div class="pad">
+        <div class="pad-ring">
+          <button type="button" class="btn red" id="red" aria-label="Red"></button>
+          <button type="button" class="btn green" id="green" aria-label="Green"></button>
+          <button type="button" class="btn yellow" id="yellow" aria-label="Yellow"></button>
+          <button type="button" class="btn purple" id="purple" aria-label="Purple"></button>
+          <div class="hub">
+            <img src="logoimg.png" alt="" class="hub-logo">
+          </div>
+        </div>
+      </div>
+
+      <p>Highest Score</p>
+
+      <div class="controls">
+        <button type="button" id="startgame">Start</button>
+        <button type="button" id="resetgame">Play Again</button>
+      </div>
+
+    </div>
+  </div>
+
+  <footer>
+    Developed by <a href="https://www.linkedin.com/in/shivam7814/">Shivam Maurya</a>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
