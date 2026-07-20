@@ -41,23 +41,13 @@ start index.html
 ```
 
 ## 🎮 How to Play
-1. Click the **Start** button or press any key to initiate the first round.
+1. Click the **Start** button to initiate the first round.
 2. Observe the initial color flash and listen to its corresponding musical note.
 3. Click the identical color pad to match the sequence.
 4. Watch closely as the game repeats the original pattern and adds one new random color to the end of the chain.
 5. Continue repeating the expanding sequence. A single incorrect press triggers the failure buzzer and ends the game.
 
-## 🤝 Contributing
-Contributions make the open-source community an amazing place to learn, inspire, and create.
-1. **Fork** the Project
-2. **Create** your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** to the Branch (`git push origin feature/AmazingFeature`)
-5. **Open** a Pull Request
-
-## 📄 License
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
-Your Name - [your-email@example.com]  
-Project Link: [https://github.com](https://github.com)
+Whatsapp - shivam.chat  
+Project Link: [https://github.com](https://github.com/shivam-7814/simonsgame01)
