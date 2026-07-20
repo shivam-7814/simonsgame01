@@ -14,8 +14,8 @@ Play the live, interactive game directly in your browser here:
 * **Responsive Design**: Optimised for fluid gameplay across mobile, tablet, and desktop viewports.
 
 ## 🛠️ Tech Stack
-* **Frontend**: HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+)
-* **Audio**: Web Audio API / Native Audio elements
+* **Frontend**: HTML5, CSS3 (Flexbox/Grid)
+* **Backend**: JavaScript (ES6+)
 
 ## 📦 Getting Started
 
